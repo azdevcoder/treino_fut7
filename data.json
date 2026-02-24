@@ -213,6 +213,20 @@
   },
   "trainingHistory": [
     {
+      "id": 1771965003259,
+      "date": "2026-02-24T20:30:03.259Z",
+      "type": "jogo",
+      "typeName": "JOGO",
+      "goals": 0,
+      "assists": 0,
+      "rating": "otimo",
+      "observation": "aaaa",
+      "activityTime": 0,
+      "restTime": 0,
+      "completedExercises": 1,
+      "totalExercises": 1
+    },
+    {
       "id": 1771963215393,
       "date": "2026-02-24T20:00:15.393Z",
       "type": "jogo",
@@ -227,5 +241,5 @@
       "totalExercises": 3
     }
   ],
-  "lastUpdated": "2026-02-24T20:29:25.426Z"
+  "lastUpdated": "2026-02-24T20:30:03.259Z"
 }
