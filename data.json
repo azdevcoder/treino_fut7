@@ -47,15 +47,15 @@
     "jogo": [
       {
         "name": "Aquecimento",
-        "details": "5 min"
+        "details": "10 min"
       },
       {
         "name": "Partida",
-        "details": "3x10 min"
+        "details": "2x25 min"
       },
       {
         "name": "Alongamento",
-        "details": "5 min"
+        "details": "10 min"
       }
     ],
     "recuperacao": [
@@ -228,12 +228,12 @@
       "goals": 0,
       "assists": 0,
       "rating": "ruim",
-      "observation": "Desempenho ruim, estava pesado, e senti muito meu condicionamento fraco, nÃ£o foi falta de tentar",
+      "observation": "Desempenho ruim, estava pesado, e senti muito meu condicionamento fraco, não foi falta de tentar",
       "activityTime": 0,
       "restTime": 0,
       "completedExercises": 3,
       "totalExercises": 3
     }
   ],
-  "lastUpdated": "2026-02-24T21:07:52.474Z"
+  "lastUpdated": "2026-02-24T21:31:05.215Z"
 }
