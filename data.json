@@ -4,58 +4,50 @@
       "id": "jogo",
       "name": "JOGO",
       "icon": "⚽",
-      "desc": "Partida de Fut7"
+      "desc": "Partida"
     },
     {
       "id": "recuperacao",
-      "name": "Recuperação Ativa",
+      "name": "Recuperação",
       "icon": "🔄",
-      "desc": "Eliminar fadiga"
+      "desc": "Ativa"
     },
     {
       "id": "hiit_agilidade",
       "name": "HIIT + Agilidade",
       "icon": "⚡",
-      "desc": "Explosão e mudança de direção"
+      "desc": "Explosão"
     },
     {
       "id": "resistencia",
       "name": "Resistência",
       "icon": "🏃",
-      "desc": "Base aeróbica"
+      "desc": "Aeróbica"
     },
     {
       "id": "forca_sprints",
       "name": "Força + Sprints",
       "icon": "💪",
-      "desc": "Potência muscular"
+      "desc": "Potência"
     },
     {
       "id": "hiit_intenso",
       "name": "HIIT Intenso",
       "icon": "🔥",
-      "desc": "Simular intensidade do jogo"
+      "desc": "Alta intensidade"
     },
     {
       "id": "descanso",
-      "name": "Descanso Total",
+      "name": "Descanso",
       "icon": "😴",
-      "desc": "Recuperação completa"
+      "desc": "Recuperação"
     }
   ],
   "exercises": {
     "jogo": [
       {
-        "name": "Aquecimento",
-        "details": "10 min"
-      },
-      {
         "name": "Partida",
-        "details": "2x25 min"
-      },
-      {
-        "name": "Alongamento",
-        "details": "10 min"
+        "details": "3x10min"
       }
     ],
     "recuperacao": [
@@ -224,7 +216,7 @@
       "id": 1771963493509,
       "date": "2026-02-24T20:04:53.509Z",
       "type": "recuperacao",
-      "typeName": "Recuperação Ativa",
+      "typeName": "RecuperaÃ§Ã£o Ativa",
       "goals": 0,
       "assists": 0,
       "rating": "bom",
@@ -242,12 +234,26 @@
       "goals": 0,
       "assists": 0,
       "rating": "ruim",
-      "observation": "Desempenho ruim, estava pesado, e senti muito meu condicionamento fraco, nÃ£o foi falta de tentar",
+      "observation": "Desempenho ruim, estava pesado, e senti muito meu condicionamento fraco, nÃÂ£o foi falta de tentar",
       "activityTime": 0,
       "restTime": 0,
       "completedExercises": 3,
       "totalExercises": 3
+    },
+    {
+      "id": 1771954336126,
+      "date": "2026-02-24T17:32:16.126Z",
+      "type": "jogo",
+      "typeName": "Segunda-Feira - JOGO",
+      "goals": 0,
+      "assists": 0,
+      "rating": "ruim",
+      "observation": "Jogo foi ruim, estava muito pesado, tinha comido muito antes, o que dificultou a mobilidade, defino como ruim porque tentei bastante, mas estava muito ruim, meu desempenho foi extremamente decepcionante",
+      "activityTime": 0,
+      "restTime": 0,
+      "completedExercises": 1,
+      "totalExercises": 1
     }
   ],
-  "lastUpdated": "2026-02-24T20:04:53.509Z"
+  "lastUpdated": "2026-02-24T20:20:31.766Z"
 }
