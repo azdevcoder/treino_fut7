@@ -4,50 +4,58 @@
       "id": "jogo",
       "name": "JOGO",
       "icon": "⚽",
-      "desc": "Partida"
+      "desc": "Partida de Fut7"
     },
     {
       "id": "recuperacao",
-      "name": "Recuperação",
+      "name": "Recuperação Ativa",
       "icon": "🔄",
-      "desc": "Ativa"
+      "desc": "Eliminar fadiga"
     },
     {
       "id": "hiit_agilidade",
       "name": "HIIT + Agilidade",
       "icon": "⚡",
-      "desc": "Explosão"
+      "desc": "Explosão e mudança de direção"
     },
     {
       "id": "resistencia",
       "name": "Resistência",
       "icon": "🏃",
-      "desc": "Aeróbica"
+      "desc": "Base aeróbica"
     },
     {
       "id": "forca_sprints",
       "name": "Força + Sprints",
       "icon": "💪",
-      "desc": "Potência"
+      "desc": "Potência muscular"
     },
     {
       "id": "hiit_intenso",
       "name": "HIIT Intenso",
       "icon": "🔥",
-      "desc": "Alta intensidade"
+      "desc": "Simular intensidade do jogo"
     },
     {
       "id": "descanso",
-      "name": "Descanso",
+      "name": "Descanso Total",
       "icon": "😴",
-      "desc": "Recuperação"
+      "desc": "Recuperação completa"
     }
   ],
   "exercises": {
     "jogo": [
       {
+        "name": "Aquecimento",
+        "details": "10 min"
+      },
+      {
         "name": "Partida",
-        "details": "3x10min"
+        "details": "2x25 min"
+      },
+      {
+        "name": "Alongamento",
+        "details": "10 min"
       }
     ],
     "recuperacao": [
@@ -213,6 +221,20 @@
   },
   "trainingHistory": [
     {
+      "id": 1771963493509,
+      "date": "2026-02-24T20:04:53.509Z",
+      "type": "recuperacao",
+      "typeName": "Recuperação Ativa",
+      "goals": 0,
+      "assists": 0,
+      "rating": "bom",
+      "observation": "",
+      "activityTime": 0,
+      "restTime": 0,
+      "completedExercises": 1,
+      "totalExercises": 5
+    },
+    {
       "id": 1771963215393,
       "date": "2026-02-24T20:00:15.393Z",
       "type": "jogo",
@@ -220,12 +242,12 @@
       "goals": 0,
       "assists": 0,
       "rating": "ruim",
-      "observation": "Desempenho ruim, estava pesado, e senti muito meu condicionamento fraco, nÃÂ£o foi falta de tentar",
+      "observation": "Desempenho ruim, estava pesado, e senti muito meu condicionamento fraco, nÃ£o foi falta de tentar",
       "activityTime": 0,
       "restTime": 0,
       "completedExercises": 3,
       "totalExercises": 3
     }
   ],
-  "lastUpdated": "2026-02-24T20:30:13.934Z"
+  "lastUpdated": "2026-02-24T20:32:11.406Z"
 }
