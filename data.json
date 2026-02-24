@@ -1,0 +1,224 @@
+{
+  "trainingTypes": [
+    {
+      "id": "jogo",
+      "name": "JOGO",
+      "icon": "⚽",
+      "desc": "Partida de Fut7"
+    },
+    {
+      "id": "recuperacao",
+      "name": "Recuperação Ativa",
+      "icon": "🔄",
+      "desc": "Eliminar fadiga"
+    },
+    {
+      "id": "hiit_agilidade",
+      "name": "HIIT + Agilidade",
+      "icon": "⚡",
+      "desc": "Explosão e mudança de direção"
+    },
+    {
+      "id": "resistencia",
+      "name": "Resistência",
+      "icon": "🏃",
+      "desc": "Base aeróbica"
+    },
+    {
+      "id": "forca_sprints",
+      "name": "Força + Sprints",
+      "icon": "💪",
+      "desc": "Potência muscular"
+    },
+    {
+      "id": "hiit_intenso",
+      "name": "HIIT Intenso",
+      "icon": "🔥",
+      "desc": "Simular intensidade do jogo"
+    },
+    {
+      "id": "descanso",
+      "name": "Descanso Total",
+      "icon": "😴",
+      "desc": "Recuperação completa"
+    }
+  ],
+  "exercises": {
+    "jogo": [
+      {
+        "name": "Aquecimento",
+        "details": "10 min"
+      },
+      {
+        "name": "Partida",
+        "details": "2x25 min"
+      },
+      {
+        "name": "Alongamento",
+        "details": "10 min"
+      }
+    ],
+    "recuperacao": [
+      {
+        "name": "Caminhada leve",
+        "details": "10 min"
+      },
+      {
+        "name": "Trote bem leve",
+        "details": "10 min"
+      },
+      {
+        "name": "Alongamento dinâmico",
+        "details": "15 min"
+      },
+      {
+        "name": "Alongamento estático",
+        "details": "15 min"
+      },
+      {
+        "name": "Respiração/relaxamento",
+        "details": "10 min"
+      }
+    ],
+    "hiit_agilidade": [
+      {
+        "name": "Aquecimento",
+        "details": "8 min trote + mobilidade"
+      },
+      {
+        "name": "Shuttle Run",
+        "details": "5m-10m-15m (6x) - descanso 40s"
+      },
+      {
+        "name": "Sprints 20m",
+        "details": "8x com 30s descanso"
+      },
+      {
+        "name": "Zigue-zague cones",
+        "details": "6x (15s cada)"
+      },
+      {
+        "name": "Escada agilidade",
+        "details": "5 min variando padrões"
+      },
+      {
+        "name": "Desaquecimento",
+        "details": "5 min caminhada + alongamento"
+      }
+    ],
+    "resistencia": [
+      {
+        "name": "Aquecimento",
+        "details": "5 min caminhada rápida"
+      },
+      {
+        "name": "Corrida contínua",
+        "details": "25-30 min (ritmo moderado)"
+      },
+      {
+        "name": "Fartlek leve",
+        "details": "4x acelerar 30s durante corrida"
+      },
+      {
+        "name": "Desaquecimento",
+        "details": "5 min caminhada"
+      },
+      {
+        "name": "Alongamento",
+        "details": "10 min"
+      }
+    ],
+    "forca_sprints": [
+      {
+        "name": "Aquecimento",
+        "details": "5 min"
+      },
+      {
+        "name": "Agachamento",
+        "details": "3x15"
+      },
+      {
+        "name": "Afundo alternado",
+        "details": "3x12 (cada perna)"
+      },
+      {
+        "name": "Elevação panturrilha",
+        "details": "3x20"
+      },
+      {
+        "name": "Prancha frontal",
+        "details": "3x30-45s"
+      },
+      {
+        "name": "Prancha lateral",
+        "details": "2x20s (cada lado)"
+      },
+      {
+        "name": "Sprints curtos 10m",
+        "details": "6x"
+      },
+      {
+        "name": "Alongamento",
+        "details": "8 min"
+      }
+    ],
+    "hiit_intenso": [
+      {
+        "name": "Aquecimento",
+        "details": "10 min trote + mobilidade"
+      },
+      {
+        "name": "Circuito 1: Burpees",
+        "details": "10x (3 rodadas)"
+      },
+      {
+        "name": "Circuito 1: Sprints 30m",
+        "details": "3 rodadas"
+      },
+      {
+        "name": "Circuito 1: Polichinelos",
+        "details": "20x (3 rodadas)"
+      },
+      {
+        "name": "Circuito 2: Mountain climber",
+        "details": "20x (3 rodadas)"
+      },
+      {
+        "name": "Circuito 2: Sprint 20m",
+        "details": "3 rodadas"
+      },
+      {
+        "name": "Circuito 2: Agachamento jump",
+        "details": "10x (3 rodadas)"
+      },
+      {
+        "name": "Tiros intervalados",
+        "details": "6x (30s forte / 30s caminhada)"
+      },
+      {
+        "name": "Desaquecimento",
+        "details": "10 min alongamento completo"
+      }
+    ],
+    "descanso": [
+      {
+        "name": "Descanso completo",
+        "details": "ou caminhada leve 20 min"
+      },
+      {
+        "name": "Hidratação",
+        "details": "Beber bastante água"
+      },
+      {
+        "name": "Alimentação",
+        "details": "Boa nutrição"
+      },
+      {
+        "name": "Sono",
+        "details": "Mínimo 7-8 horas"
+      }
+    ]
+  },
+  "trainingHistory": [],
+  "lastUpdated": "2026-02-24T19:19:18.231Z"
+}
