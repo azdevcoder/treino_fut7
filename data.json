@@ -47,7 +47,7 @@
     "jogo": [
       {
         "name": "Aquecimento",
-        "details": "10 min"
+        "details": "5 min"
       },
       {
         "name": "Partida",
@@ -249,5 +249,5 @@
       "totalExercises": 3
     }
   ],
-  "lastUpdated": "2026-02-24T20:35:56.327Z"
+  "lastUpdated": "2026-02-24T20:39:39.707Z"
 }
