@@ -221,20 +221,6 @@
   },
   "trainingHistory": [
     {
-      "id": 1771963493509,
-      "date": "2026-02-24T20:04:53.509Z",
-      "type": "recuperacao",
-      "typeName": "Recuperação Ativa",
-      "goals": 0,
-      "assists": 0,
-      "rating": "bom",
-      "observation": "",
-      "activityTime": 0,
-      "restTime": 0,
-      "completedExercises": 1,
-      "totalExercises": 5
-    },
-    {
       "id": 1771963215393,
       "date": "2026-02-24T20:00:15.393Z",
       "type": "jogo",
@@ -249,5 +235,5 @@
       "totalExercises": 3
     }
   ],
-  "lastUpdated": "2026-02-24T20:32:11.406Z"
+  "lastUpdated": "2026-02-24T20:32:20.582Z"
 }
