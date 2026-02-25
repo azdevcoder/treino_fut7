@@ -3,44 +3,44 @@
     {
       "id": "jogo",
       "name": "JOGO",
-      "icon": "⚽",
-      "desc": "Partida de Fut7"
+      "icon": "<i class=\"bi bi-play-circle-fill text-primary\"></i>",
+      "desc": "Partida"
     },
     {
       "id": "recuperacao",
-      "name": "Recuperação Ativa",
-      "icon": "🔄",
-      "desc": "Eliminar fadiga"
+      "name": "Recuperação",
+      "icon": "<i class=\"bi bi-heart-pulse text-success\"></i>",
+      "desc": "Ativa"
     },
     {
       "id": "hiit_agilidade",
       "name": "HIIT + Agilidade",
-      "icon": "⚡",
-      "desc": "Explosão e mudança de direção"
+      "icon": "<i class=\"bi bi-lightning-charge-fill text-warning\"></i>",
+      "desc": "Explosão"
     },
     {
       "id": "resistencia",
       "name": "Resistência",
-      "icon": "🏃",
-      "desc": "Base aeróbica"
+      "icon": "<i class=\"bi bi-activity text-danger\"></i>",
+      "desc": "Aeróbica"
     },
     {
       "id": "forca_sprints",
       "name": "Força + Sprints",
-      "icon": "💪",
-      "desc": "Potência muscular"
+      "icon": "<i class=\"bi bi-universal-access-circle text-info\"></i>",
+      "desc": "Potência"
     },
     {
       "id": "hiit_intenso",
       "name": "HIIT Intenso",
-      "icon": "🔥",
-      "desc": "Simular intensidade do jogo"
+      "icon": "<i class=\"bi bi-fire text-danger\"></i>",
+      "desc": "Alta intensidade"
     },
     {
       "id": "descanso",
-      "name": "Descanso Total",
-      "icon": "😴",
-      "desc": "Recuperação completa"
+      "name": "Descanso",
+      "icon": "<i class=\"bi bi-cup-hot-fill text-secondary\"></i>",
+      "desc": "Recuperação"
     }
   ],
   "exercises": {
@@ -60,68 +60,44 @@
     ],
     "recuperacao": [
       {
-        "name": "Caminhada leve",
+        "name": "Caminhada",
         "details": "10 min"
       },
       {
-        "name": "Trote bem leve",
+        "name": "Trote leve",
         "details": "10 min"
       },
       {
-        "name": "Alongamento dinâmico",
-        "details": "15 min"
-      },
-      {
-        "name": "Alongamento estático",
-        "details": "15 min"
-      },
-      {
-        "name": "Respiração/relaxamento",
-        "details": "10 min"
+        "name": "Alongamento",
+        "details": "20 min"
       }
     ],
     "hiit_agilidade": [
       {
         "name": "Aquecimento",
-        "details": "8 min trote + mobilidade"
+        "details": "8 min"
       },
       {
         "name": "Shuttle Run",
-        "details": "5m-10m-15m (6x) - descanso 40s"
+        "details": "6x"
       },
       {
         "name": "Sprints 20m",
-        "details": "8x com 30s descanso"
+        "details": "8x"
       },
       {
-        "name": "Zigue-zague cones",
-        "details": "6x (15s cada)"
-      },
-      {
-        "name": "Escada agilidade",
-        "details": "5 min variando padrões"
-      },
-      {
-        "name": "Desaquecimento",
-        "details": "5 min caminhada + alongamento"
+        "name": "Zigue-zague",
+        "details": "6x"
       }
     ],
     "resistencia": [
       {
         "name": "Aquecimento",
-        "details": "5 min caminhada rápida"
+        "details": "5 min"
       },
       {
-        "name": "Corrida contínua",
-        "details": "25-30 min (ritmo moderado)"
-      },
-      {
-        "name": "Fartlek leve",
-        "details": "4x acelerar 30s durante corrida"
-      },
-      {
-        "name": "Desaquecimento",
-        "details": "5 min caminhada"
+        "name": "Corrida",
+        "details": "25-30 min"
       },
       {
         "name": "Alongamento",
@@ -138,84 +114,48 @@
         "details": "3x15"
       },
       {
-        "name": "Afundo alternado",
-        "details": "3x12 (cada perna)"
+        "name": "Afundo",
+        "details": "3x12"
       },
       {
-        "name": "Elevação panturrilha",
-        "details": "3x20"
+        "name": "Prancha",
+        "details": "3x45s"
       },
       {
-        "name": "Prancha frontal",
-        "details": "3x30-45s"
-      },
-      {
-        "name": "Prancha lateral",
-        "details": "2x20s (cada lado)"
-      },
-      {
-        "name": "Sprints curtos 10m",
+        "name": "Sprints",
         "details": "6x"
-      },
-      {
-        "name": "Alongamento",
-        "details": "8 min"
       }
     ],
     "hiit_intenso": [
       {
         "name": "Aquecimento",
-        "details": "10 min trote + mobilidade"
+        "details": "10 min"
       },
       {
-        "name": "Circuito 1: Burpees",
-        "details": "10x (3 rodadas)"
+        "name": "Burpees",
+        "details": "3x10"
       },
       {
-        "name": "Circuito 1: Sprints 30m",
-        "details": "3 rodadas"
+        "name": "Sprints",
+        "details": "6x30s"
       },
       {
-        "name": "Circuito 1: Polichinelos",
-        "details": "20x (3 rodadas)"
-      },
-      {
-        "name": "Circuito 2: Mountain climber",
-        "details": "20x (3 rodadas)"
-      },
-      {
-        "name": "Circuito 2: Sprint 20m",
-        "details": "3 rodadas"
-      },
-      {
-        "name": "Circuito 2: Agachamento jump",
-        "details": "10x (3 rodadas)"
-      },
-      {
-        "name": "Tiros intervalados",
-        "details": "6x (30s forte / 30s caminhada)"
-      },
-      {
-        "name": "Desaquecimento",
-        "details": "10 min alongamento completo"
+        "name": "Mountain climber",
+        "details": "3x20"
       }
     ],
     "descanso": [
       {
-        "name": "Descanso completo",
-        "details": "ou caminhada leve 20 min"
+        "name": "Descanso",
+        "details": "Completo"
       },
       {
         "name": "Hidratação",
-        "details": "Beber bastante água"
-      },
-      {
-        "name": "Alimentação",
-        "details": "Boa nutrição"
+        "details": "2-3L"
       },
       {
         "name": "Sono",
-        "details": "Mínimo 7-8 horas"
+        "details": "7-8h"
       }
     ]
   },
@@ -224,11 +164,11 @@
       "id": 1771972925010,
       "date": "2026-02-24T22:42:05.010Z",
       "type": "recuperacao",
-      "typeName": "Recuperação Ativa",
+      "typeName": "RecuperaÃ§Ã£o Ativa",
       "goals": 0,
       "assists": 0,
       "rating": "bom",
-      "observation": "Satisfeito por hoje, deu pra destravar, mas é só o primeiro dia ",
+      "observation": "Satisfeito por hoje, deu pra destravar, mas Ã© sÃ³ o primeiro dia ",
       "activityTime": 0,
       "restTime": 0,
       "completedExercises": 5,
@@ -242,12 +182,12 @@
       "goals": 0,
       "assists": 0,
       "rating": "ruim",
-      "observation": "Desempenho ruim, estava pesado, e senti muito meu condicionamento fraco, não foi falta de tentar",
+      "observation": "Desempenho ruim, estava pesado, e senti muito meu condicionamento fraco, nÃ£o foi falta de tentar",
       "activityTime": 0,
       "restTime": 0,
       "completedExercises": 3,
       "totalExercises": 3
     }
   ],
-  "lastUpdated": "2026-02-25T00:29:55.230Z"
+  "lastUpdated": "2026-02-25T09:12:52.803Z"
 }
