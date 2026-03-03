@@ -161,20 +161,6 @@
   },
   "trainingHistory": [
     {
-      "id": 1772506284927,
-      "date": "2026-01-26T02:51:24.925Z",
-      "type": "jogo",
-      "typeName": "JOGO",
-      "goals": 1,
-      "assists": 0,
-      "rating": "bom",
-      "observation": "Jogo bom, mas tenho que evoluir principalmente condicionamento fÃÂ­sico",
-      "activityTime": 0,
-      "restTime": 0,
-      "completedExercises": 3,
-      "totalExercises": 3
-    },
-    {
       "id": 1772506284926,
       "date": "2026-01-19T02:51:24.925Z",
       "type": "jogo",
@@ -189,5 +175,5 @@
       "totalExercises": 3
     }
   ],
-  "lastUpdated": "2026-03-03T20:12:21.133Z"
+  "lastUpdated": "2026-03-03T20:12:22.742Z"
 }
