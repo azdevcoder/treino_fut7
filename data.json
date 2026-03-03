@@ -161,20 +161,6 @@
   },
   "trainingHistory": [
     {
-      "id": 1771963215393,
-      "date": "2026-02-24T20:00:15.393Z",
-      "type": "jogo",
-      "typeName": "JOGO",
-      "goals": 0,
-      "assists": 0,
-      "rating": "ruim",
-      "observation": "Desempenho ruim, estava pesado, e senti muito meu condicionamento fraco, nÃÂÃÂ£o foi falta de tentar",
-      "activityTime": 0,
-      "restTime": 0,
-      "completedExercises": 3,
-      "totalExercises": 3
-    },
-    {
       "id": 1772506284930,
       "date": "2026-02-16T02:51:24.925Z",
       "type": "jogo",
@@ -245,5 +231,5 @@
       "totalExercises": 3
     }
   ],
-  "lastUpdated": "2026-03-03T20:12:12.750Z"
+  "lastUpdated": "2026-03-03T20:12:15.026Z"
 }
