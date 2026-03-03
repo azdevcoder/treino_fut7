@@ -161,6 +161,20 @@
   },
   "trainingHistory": [
     {
+      "id": 1772506284925,
+      "date": "2026-03-03T02:51:24.925Z",
+      "type": "jogo",
+      "typeName": "JOGO",
+      "goals": 1,
+      "assists": 0,
+      "rating": "bom",
+      "observation": "Muito bom jogo, apresentei evolução ",
+      "activityTime": 0,
+      "restTime": 0,
+      "completedExercises": 3,
+      "totalExercises": 3
+    },
+    {
       "id": 1772185279382,
       "date": "2026-02-27T09:41:19.383Z",
       "type": "hiit_intenso",
@@ -217,5 +231,5 @@
       "totalExercises": 3
     }
   ],
-  "lastUpdated": "2026-03-03T02:50:54.323Z"
+  "lastUpdated": "2026-03-03T02:51:24.926Z"
 }
