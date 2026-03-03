@@ -162,20 +162,6 @@
   "trainingHistory": [
     {},
     {
-      "id": 1772185279382,
-      "date": "2026-02-27T09:41:19.383Z",
-      "type": "hiit_intenso",
-      "typeName": "HIIT Intenso",
-      "goals": 0,
-      "assists": 0,
-      "rating": "bom",
-      "observation": "Treino muito bom, aumentar exercÃ­cios ",
-      "activityTime": 0,
-      "restTime": 0,
-      "completedExercises": 4,
-      "totalExercises": 4
-    },
-    {
       "id": 1772012280025,
       "date": "2026-02-25T09:38:00.025Z",
       "type": "hiit_agilidade",
@@ -288,5 +274,5 @@
       "totalExercises": 3
     }
   ],
-  "lastUpdated": "2026-03-03T20:12:02.112Z"
+  "lastUpdated": "2026-03-03T20:12:04.252Z"
 }
