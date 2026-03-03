@@ -162,7 +162,7 @@
   "trainingHistory": [
     {
       "id": 1772566570936,
-      "date": "2026-02-26T19:36:10.936Z",
+      "date": "2026-03-03T19:36:10.936Z",
       "type": "jogo",
       "typeName": "JOGO",
       "goals": 2,
@@ -287,6 +287,20 @@
       "totalExercises": 3
     },
     {
+      "id": 1772506284927,
+      "date": "2026-01-26T02:51:24.925Z",
+      "type": "jogo",
+      "typeName": "JOGO",
+      "goals": 1,
+      "assists": 0,
+      "rating": "bom",
+      "observation": "Jogo bom, mas tenho que evoluir principalmente condicionamento fÃ­sico",
+      "activityTime": 0,
+      "restTime": 0,
+      "completedExercises": 3,
+      "totalExercises": 3
+    },
+    {
       "id": 1772506284926,
       "date": "2026-01-19T02:51:24.925Z",
       "type": "jogo",
@@ -301,5 +315,5 @@
       "totalExercises": 3
     }
   ],
-  "lastUpdated": "2026-03-03T19:37:35.626Z"
+  "lastUpdated": "2026-03-03T19:40:31.783Z"
 }
