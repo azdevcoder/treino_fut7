@@ -277,7 +277,7 @@
       "date": "2026-01-26T02:51:24.925Z",
       "type": "jogo",
       "typeName": "JOGO",
-      "goals": 2,
+      "goals": 1,
       "assists": 0,
       "rating": "bom",
       "observation": "Jogo bom, mas tenho que evoluir principalmente condicionamento fÃ­sico",
@@ -301,5 +301,5 @@
       "totalExercises": 3
     }
   ],
-  "lastUpdated": "2026-03-03T18:05:24.677Z"
+  "lastUpdated": "2026-03-03T18:06:55.418Z"
 }
