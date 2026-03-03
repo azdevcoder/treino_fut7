@@ -159,21 +159,6 @@
       }
     ]
   },
-  "trainingHistory": [
-    {
-      "id": 1772506284926,
-      "date": "2026-01-19T02:51:24.925Z",
-      "type": "jogo",
-      "typeName": "JOGO",
-      "goals": 1,
-      "assists": 0,
-      "rating": "bom",
-      "observation": "Bom jogo, muito a evoluir ",
-      "activityTime": 0,
-      "restTime": 0,
-      "completedExercises": 3,
-      "totalExercises": 3
-    }
-  ],
-  "lastUpdated": "2026-03-03T20:12:22.742Z"
+  "trainingHistory": [],
+  "lastUpdated": "2026-03-03T20:12:24.493Z"
 }
