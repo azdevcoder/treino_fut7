@@ -230,6 +230,149 @@
       "completedExercises": 5,
       "totalExercises": 5
     },
+    {
+  "trainingTypes": [
+    {
+      "id": "jogo",
+      "name": "JOGO",
+      "icon": "<i class=\"bi bi-play-circle-fill text-primary\"></i>",
+      "desc": "Partida"
+    },
+    {
+      "id": "recuperacao",
+      "name": "Recuperação",
+      "icon": "<i class=\"bi bi-heart-pulse text-success\"></i>",
+      "desc": "Ativa"
+    },
+    {
+      "id": "hiit_agilidade",
+      "name": "HIIT + Agilidade",
+      "icon": "<i class=\"bi bi-lightning-charge-fill text-warning\"></i>",
+      "desc": "Explosão"
+    },
+    {
+      "id": "resistencia",
+      "name": "Resistência",
+      "icon": "<i class=\"bi bi-activity text-danger\"></i>",
+      "desc": "Aeróbica"
+    },
+    {
+      "id": "forca_sprints",
+      "name": "Força + Sprints",
+      "icon": "<i class=\"bi bi-universal-access-circle text-info\"></i>",
+      "desc": "Potência"
+    },
+    {
+      "id": "hiit_intenso",
+      "name": "HIIT Intenso",
+      "icon": "<i class=\"bi bi-fire text-danger\"></i>",
+      "desc": "Alta intensidade"
+    },
+    {
+      "id": "descanso",
+      "name": "Descanso",
+      "icon": "<i class=\"bi bi-cup-hot-fill text-secondary\"></i>",
+      "desc": "Recuperação"
+    }
+  ],
+  "exercises": {
+    "jogo": [
+      { "name": "Aquecimento", "details": "10 min" },
+      { "name": "Partida", "details": "2x25 min" },
+      { "name": "Alongamento", "details": "10 min" }
+    ],
+    "recuperacao": [
+      { "name": "Caminhada", "details": "10 min" },
+      { "name": "Trote leve", "details": "10 min" },
+      { "name": "Alongamento", "details": "20 min" }
+    ],
+    "hiit_agilidade": [
+      { "name": "Aquecimento", "details": "8 min" },
+      { "name": "Shuttle Run", "details": "6x" },
+      { "name": "Sprints 20m", "details": "8x" },
+      { "name": "Zigue-zague", "details": "6x" }
+    ],
+    "resistencia": [
+      { "name": "Aquecimento", "details": "5 min" },
+      { "name": "Corrida", "details": "25-30 min" },
+      { "name": "Alongamento", "details": "10 min" }
+    ],
+    "forca_sprints": [
+      { "name": "Aquecimento", "details": "5 min" },
+      { "name": "Agachamento", "details": "3x15" },
+      { "name": "Afundo", "details": "3x12" },
+      { "name": "Prancha", "details": "3x45s" },
+      { "name": "Sprints", "details": "6x" }
+    ],
+    "hiit_intenso": [
+      { "name": "Aquecimento", "details": "10 min" },
+      { "name": "Burpees", "details": "3x10" },
+      { "name": "Sprints", "details": "6x30s" },
+      { "name": "Mountain climber", "details": "3x20" }
+    ],
+    "descanso": [
+      { "name": "Descanso", "details": "Completo" },
+      { "name": "Hidratação", "details": "2-3L" },
+      { "name": "Sono", "details": "7-8h" }
+    ]
+  },
+  "trainingHistory": [
+    {
+      "id": 1772566570936,
+      "date": "2026-03-02T19:36:10.936Z",
+      "type": "jogo",
+      "typeName": "JOGO",
+      "goals": 1,
+      "assists": 0,
+      "rating": "bom",
+      "observation": "Bom Jogo, muito a evoluir",
+      "activityTime": 0,
+      "restTime": 0,
+      "completedExercises": 3,
+      "totalExercises": 3
+    },
+    {
+      "id": 1772185279382,
+      "date": "2026-02-27T09:41:19.383Z",
+      "type": "hiit_intenso",
+      "typeName": "HIIT Intenso",
+      "goals": 0,
+      "assists": 0,
+      "rating": "bom",
+      "observation": "Treino muito bom, aumentar exercícios",
+      "activityTime": 0,
+      "restTime": 0,
+      "completedExercises": 4,
+      "totalExercises": 4
+    },
+    {
+      "id": 1772012280025,
+      "date": "2026-02-25T09:38:00.025Z",
+      "type": "hiit_agilidade",
+      "typeName": "HIIT + Agilidade",
+      "goals": 0,
+      "assists": 0,
+      "rating": "bom",
+      "observation": "Foi bom para o primeiro treino de HIIT e Agilidade, preciso melhorar meu Shuttle Run e Sprints, treino de Zigue Zague foi ótimo",
+      "activityTime": 0,
+      "restTime": 0,
+      "completedExercises": 4,
+      "totalExercises": 4
+    },
+    {
+      "id": 1771972925010,
+      "date": "2026-02-24T22:42:05.010Z",
+      "type": "recuperacao",
+      "typeName": "Recuperação Ativa",
+      "goals": 0,
+      "assists": 0,
+      "rating": "bom",
+      "observation": "Satisfeito por hoje, deu pra destravar, mas é só o primeiro dia",
+      "activityTime": 0,
+      "restTime": 0,
+      "completedExercises": 3,
+      "totalExercises": 3
+    }
   ],
   "lastUpdated": "2026-03-03T19:49:56.925Z"
 }
