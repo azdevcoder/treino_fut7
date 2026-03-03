@@ -162,20 +162,6 @@
   "trainingHistory": [
     {},
     {
-      "id": 1772012280025,
-      "date": "2026-02-25T09:38:00.025Z",
-      "type": "hiit_agilidade",
-      "typeName": "HIIT + Agilidade",
-      "goals": 0,
-      "assists": 0,
-      "rating": "bom",
-      "observation": "Foi bom para o primeiro treino de HIIT E Agilidade, preciso melhorar meu Shuttle Run e Sprints, treino de Zigue Zague foi ÃÂ³timo",
-      "activityTime": 0,
-      "restTime": 0,
-      "completedExercises": 4,
-      "totalExercises": 4
-    },
-    {
       "id": 1771972925010,
       "date": "2026-02-24T22:42:05.010Z",
       "type": "recuperacao",
@@ -274,5 +260,5 @@
       "totalExercises": 3
     }
   ],
-  "lastUpdated": "2026-03-03T20:12:04.252Z"
+  "lastUpdated": "2026-03-03T20:12:06.128Z"
 }
