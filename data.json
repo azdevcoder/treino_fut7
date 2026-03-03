@@ -45,43 +45,118 @@
   ],
   "exercises": {
     "jogo": [
-      { "name": "Aquecimento", "details": "10 min" },
-      { "name": "Partida", "details": "2x25 min" },
-      { "name": "Alongamento", "details": "10 min" }
+      {
+        "name": "Aquecimento",
+        "details": "10 min"
+      },
+      {
+        "name": "Partida",
+        "details": "2x25 min"
+      },
+      {
+        "name": "Alongamento",
+        "details": "10 min"
+      }
     ],
     "recuperacao": [
-      { "name": "Caminhada", "details": "10 min" },
-      { "name": "Trote leve", "details": "10 min" },
-      { "name": "Alongamento", "details": "20 min" }
+      {
+        "name": "Caminhada",
+        "details": "10 min"
+      },
+      {
+        "name": "Trote leve",
+        "details": "10 min"
+      },
+      {
+        "name": "Alongamento",
+        "details": "20 min"
+      }
     ],
     "hiit_agilidade": [
-      { "name": "Aquecimento", "details": "8 min" },
-      { "name": "Shuttle Run", "details": "6x" },
-      { "name": "Sprints 20m", "details": "8x" },
-      { "name": "Zigue-zague", "details": "6x" }
+      {
+        "name": "Aquecimento",
+        "details": "8 min"
+      },
+      {
+        "name": "Shuttle Run",
+        "details": "6x"
+      },
+      {
+        "name": "Sprints 20m",
+        "details": "8x"
+      },
+      {
+        "name": "Zigue-zague",
+        "details": "6x"
+      }
     ],
     "resistencia": [
-      { "name": "Aquecimento", "details": "5 min" },
-      { "name": "Corrida", "details": "25-30 min" },
-      { "name": "Alongamento", "details": "10 min" }
+      {
+        "name": "Aquecimento",
+        "details": "5 min"
+      },
+      {
+        "name": "Corrida",
+        "details": "25-30 min"
+      },
+      {
+        "name": "Alongamento",
+        "details": "10 min"
+      }
     ],
     "forca_sprints": [
-      { "name": "Aquecimento", "details": "5 min" },
-      { "name": "Agachamento", "details": "3x15" },
-      { "name": "Afundo", "details": "3x12" },
-      { "name": "Prancha", "details": "3x45s" },
-      { "name": "Sprints", "details": "6x" }
+      {
+        "name": "Aquecimento",
+        "details": "5 min"
+      },
+      {
+        "name": "Agachamento",
+        "details": "3x15"
+      },
+      {
+        "name": "Afundo",
+        "details": "3x12"
+      },
+      {
+        "name": "Prancha",
+        "details": "3x45s"
+      },
+      {
+        "name": "Sprints",
+        "details": "6x"
+      }
     ],
     "hiit_intenso": [
-      { "name": "Aquecimento", "details": "10 min" },
-      { "name": "Burpees", "details": "3x10" },
-      { "name": "Sprints", "details": "6x30s" },
-      { "name": "Mountain climber", "details": "3x20" }
+      {
+        "name": "Aquecimento",
+        "details": "10 min"
+      },
+      {
+        "name": "Burpees",
+        "details": "3x10"
+      },
+      {
+        "name": "Sprints",
+        "details": "6x30s"
+      },
+      {
+        "name": "Mountain climber",
+        "details": "3x20"
+      }
     ],
     "descanso": [
-      { "name": "Descanso", "details": "Completo" },
-      { "name": "Hidratação", "details": "2-3L" },
-      { "name": "Sono", "details": "7-8h" }
+      {
+        "name": "Descanso",
+        "details": "Completo"
+      },
+      {
+        "name": "Hidratação",
+        "details": "2-3L"
+      },
+      {
+        "name": "Sono",
+        "details": "7-8h"
+      }
     ]
   },
   "trainingHistory": [
@@ -93,7 +168,7 @@
       "goals": 1,
       "assists": 0,
       "rating": "bom",
-      "observation": "Muito bom jogo, apresentei evolução",
+      "observation": "Muito bom jogo, apresentei evolução ",
       "activityTime": 0,
       "restTime": 0,
       "completedExercises": 3,
@@ -107,7 +182,7 @@
       "goals": 0,
       "assists": 0,
       "rating": "bom",
-      "observation": "Treino muito bom, aumentar exercícios",
+      "observation": "Treino muito bom, aumentar exercícios ",
       "activityTime": 0,
       "restTime": 0,
       "completedExercises": 4,
@@ -121,7 +196,7 @@
       "goals": 0,
       "assists": 0,
       "rating": "bom",
-      "observation": "Foi bom para o primeiro treino de HIIT e Agilidade, preciso melhorar meu Shuttle Run e Sprints, treino de Zigue Zague foi ótimo",
+      "observation": "Foi bom para o primeiro treino de HIIT E Agilidade, preciso melhorar meu Shuttle Run e Sprints, treino de Zigue Zague foi Ã³timo",
       "activityTime": 0,
       "restTime": 0,
       "completedExercises": 4,
@@ -131,15 +206,15 @@
       "id": 1771972925010,
       "date": "2026-02-24T22:42:05.010Z",
       "type": "recuperacao",
-      "typeName": "Recuperação Ativa",
+      "typeName": "RecuperaÃÂ§ÃÂ£o Ativa",
       "goals": 0,
       "assists": 0,
       "rating": "bom",
-      "observation": "Satisfeito por hoje, deu pra destravar, mas é só o primeiro dia",
+      "observation": "Satisfeito por hoje, deu pra destravar, mas ÃÂ© sÃÂ³ o primeiro dia ",
       "activityTime": 0,
       "restTime": 0,
-      "completedExercises": 3,
-      "totalExercises": 3
+      "completedExercises": 5,
+      "totalExercises": 5
     },
     {
       "id": 1771963215393,
@@ -149,7 +224,7 @@
       "goals": 0,
       "assists": 0,
       "rating": "ruim",
-      "observation": "Desempenho ruim, estava pesado, e senti muito meu condicionamento fraco, não foi falta de tentar",
+      "observation": "Desempenho ruim, estava pesado, e senti muito meu condicionamento fraco, nÃÂ£o foi falta de tentar",
       "activityTime": 0,
       "restTime": 0,
       "completedExercises": 3,
@@ -198,33 +273,33 @@
       "totalExercises": 3
     },
     {
-      "id": 1772506284926,
+      "id": 1772506284927,
       "date": "2026-01-26T02:51:24.925Z",
       "type": "jogo",
       "typeName": "JOGO",
-      "goals": 2,
+      "goals": 1,
       "assists": 0,
       "rating": "bom",
-      "observation": "Bom jogo, muito a evoluir",
+      "observation": "Jogo bom, mas tenho que evoluir principalmente condicionamento fÃ­sico",
       "activityTime": 0,
       "restTime": 0,
       "completedExercises": 3,
       "totalExercises": 3
     },
     {
-      "id": 1772506284927,
+      "id": 1772506284926,
       "date": "2026-01-19T02:51:24.925Z",
       "type": "jogo",
       "typeName": "JOGO",
       "goals": 1,
       "assists": 0,
       "rating": "bom",
-      "observation": "Bom jogo, muito a evoluir",
+      "observation": "Bom jogo, muito a evoluir ",
       "activityTime": 0,
       "restTime": 0,
       "completedExercises": 3,
       "totalExercises": 3
     }
   ],
-  "lastUpdated": "2026-03-03T18:11:02.461Z"
+  "lastUpdated": "2026-03-03T18:16:26.510Z"
 }
