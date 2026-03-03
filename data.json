@@ -161,6 +161,20 @@
   },
   "trainingHistory": [
     {
+      "id": 1772566570936,
+      "date": "2026-03-03T19:36:10.936Z",
+      "type": "jogo",
+      "typeName": "JOGO",
+      "goals": 2,
+      "assists": 0,
+      "rating": "bom",
+      "observation": "Bom Jogo, muito a evoluir",
+      "activityTime": 0,
+      "restTime": 0,
+      "completedExercises": 3,
+      "totalExercises": 3
+    },
+    {
       "id": 1772506284925,
       "date": "2026-03-03T02:51:24.925Z",
       "type": "jogo",
@@ -301,5 +315,5 @@
       "totalExercises": 3
     }
   ],
-  "lastUpdated": "2026-03-03T19:41:43.813Z"
+  "lastUpdated": "2026-03-03T19:45:25.397Z"
 }
