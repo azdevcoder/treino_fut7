@@ -159,6 +159,105 @@
       }
     ]
   },
-  "trainingHistory": [],
-  "lastUpdated": "2026-03-03T20:39:28.088Z"
+  "trainingHistory": [
+    {
+      "id": 1772569107425,
+      "date": "2026-03-03T20:18:27.425Z",
+      "type": "jogo",
+      "typeName": "JOGO",
+      "goals": 2,
+      "assists": 0,
+      "rating": "bom",
+      "observation": "",
+      "activityTime": 0,
+      "restTime": 0,
+      "completedExercises": 0,
+      "totalExercises": 3
+    },
+    {
+      "id": 1772569000158,
+      "date": "2026-03-03T20:16:40.158Z",
+      "type": "jogo",
+      "typeName": "JOGO",
+      "goals": 1,
+      "assists": 0,
+      "rating": "bom",
+      "observation": "",
+      "activityTime": 0,
+      "restTime": 0,
+      "completedExercises": 3,
+      "totalExercises": 3
+    },
+    {
+      "id": 1772568855657,
+      "date": "2026-03-03T20:14:15.657Z",
+      "type": "jogo",
+      "typeName": "JOGO",
+      "goals": 1,
+      "assists": 1,
+      "rating": "bom",
+      "observation": "",
+      "activityTime": 0,
+      "restTime": 0,
+      "completedExercises": 3,
+      "totalExercises": 3
+    },
+    {
+      "id": 1772568834881,
+      "date": "2026-03-03T20:13:54.881Z",
+      "type": "jogo",
+      "typeName": "JOGO",
+      "goals": 0,
+      "assists": 0,
+      "rating": "ruim",
+      "observation": "",
+      "activityTime": 0,
+      "restTime": 0,
+      "completedExercises": 3,
+      "totalExercises": 3
+    },
+    {
+      "id": 1772568822038,
+      "date": "2026-03-03T20:13:42.038Z",
+      "type": "jogo",
+      "typeName": "JOGO",
+      "goals": 2,
+      "assists": 0,
+      "rating": "bom",
+      "observation": "",
+      "activityTime": 0,
+      "restTime": 0,
+      "completedExercises": 3,
+      "totalExercises": 3
+    },
+    {
+      "id": 1772568805754,
+      "date": "2026-03-03T20:13:25.754Z",
+      "type": "jogo",
+      "typeName": "JOGO",
+      "goals": 1,
+      "assists": 0,
+      "rating": "bom",
+      "observation": "",
+      "activityTime": 0,
+      "restTime": 0,
+      "completedExercises": 3,
+      "totalExercises": 3
+    },
+    {
+      "id": 1771963215393,
+      "date": "2026-02-24T20:00:15.393Z",
+      "type": "jogo",
+      "typeName": "JOGO",
+      "goals": 0,
+      "assists": 0,
+      "rating": "ruim",
+      "observation": "Desempenho ruim, estava pesado, e senti muito meu condicionamento fraco, nÃÂ£o foi falta de tentar",
+      "activityTime": 0,
+      "restTime": 0,
+      "completedExercises": 3,
+      "totalExercises": 3
+    }
+  ],
+  "lastUpdated": "2026-03-04T02:05:58.286Z"
 }
