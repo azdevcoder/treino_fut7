@@ -161,6 +161,20 @@
   },
   "trainingHistory": [
     {
+      "id": 1773112795818,
+      "date": "2026-03-10T03:19:55.818Z",
+      "type": "jogo",
+      "typeName": "JOGO",
+      "goals": 0,
+      "assists": 3,
+      "rating": "otimo",
+      "observation": "Melhor jogo até agora, um pouco de dor atrapalhou, mas joguei muito bem, melhorar condicionamento",
+      "activityTime": 0,
+      "restTime": 0,
+      "completedExercises": 3,
+      "totalExercises": 3
+    },
+    {
       "id": 1772569107425,
       "date": "2026-03-03T20:18:27.425Z",
       "type": "jogo",
@@ -259,5 +273,5 @@
       "totalExercises": 3
     }
   ],
-  "lastUpdated": "2026-03-10T03:19:05.149Z"
+  "lastUpdated": "2026-03-10T03:19:55.820Z"
 }
