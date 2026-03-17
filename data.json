@@ -161,6 +161,20 @@
   },
   "trainingHistory": [
     {
+      "id": 1773718357353,
+      "date": "2026-03-17T03:32:37.353Z",
+      "type": "jogo",
+      "typeName": "JOGO",
+      "goals": 1,
+      "assists": 2,
+      "rating": "bom",
+      "observation": "Jogo bom, evoluir nos fundamentos, principalmente posicionamento ",
+      "activityTime": 0,
+      "restTime": 0,
+      "completedExercises": 3,
+      "totalExercises": 3
+    },
+    {
       "id": 1773112795818,
       "date": "2026-03-10T03:19:55.818Z",
       "type": "jogo",
@@ -273,5 +287,5 @@
       "totalExercises": 3
     }
   ],
-  "lastUpdated": "2026-03-17T03:31:59.705Z"
+  "lastUpdated": "2026-03-17T03:32:37.356Z"
 }
